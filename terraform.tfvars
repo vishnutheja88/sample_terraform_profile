@@ -1,0 +1,7 @@
+aws_region = "us-east-1"
+aws_profile = "default"
+environment = "dev"
+aws_ami = "ami-0c38efb4f5f15205f"
+key_name = "devops_practice"
+aws_instance_jenkins = "t2.micro"
+myip = "24.98.245.205/32"
